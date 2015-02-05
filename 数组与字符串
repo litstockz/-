@@ -1,0 +1,8 @@
+/*逆序输出*/
+#include<stdio.h>
+#define Maxn 100+10
+int a[Maxn];
+int main()
+{
+
+}
